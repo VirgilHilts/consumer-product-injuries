@@ -3,63 +3,64 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(page_title="NEISS Injury Explorer", layout="wide")
-st.title("NEISS Injury Treemap (National Estimates)")
-st.markdown("**Colored by Average Severity** — Fatality=8, Amputation=4, Hospitalized=2, All else=0")
+st.title("NEISS Injury Explorer")
+st.markdown("**National Estimates** — Colored by Average Severity")
 
-# Load data
+# Load pre-aggregated data (much smaller)
 @st.cache_data
-def load_data():
-    df = pd.read_csv('aggregated.csv')
-    df = df.copy()
-    return df
+def load_agg_all():
+    return pd.read_csv('agg_all.csv')   # ← your pre-computed file
 
-agg = load_data()
+agg = load_agg_all()
 
+# Optional: make sure numbers are clean
+agg['national_estimate'] = agg['national_estimate'].round(0).astype(int)
+agg['avg_Severity'] = agg['avg_Severity'].round(2)
 
-# Filters
-col1, col2 = st.columns([3, 1])
-with col1:
-    selected_categories = st.multiselect(
-        "Filter Broad Categories",
-        options=sorted(agg['broad_category'].unique()),
-        default=sorted(agg['broad_category'].unique())
-    )
-
-with col2:
-    min_sev = st.slider("Minimum Avg Severity", 0.0, 3.0, 0.0, 0.05)
-
-# Filtered data
-filtered = agg[
-    (agg['broad_category'].isin(selected_categories)) & 
-    (agg['avg_Severity'] >= min_sev)
-]
-
-# Treemap
-fig = px.treemap(
-    filtered,
+# ==================== ALL INJURIES ====================
+st.subheader("All Injuries")
+fig_all = px.treemap(
+    agg,
     path=['broad_category', 'Prod'],
     values='national_estimate',
     color='avg_Severity',
     color_continuous_scale=['#2ca02c', '#98df8a', '#ffbb78', '#ff7f0e', '#d62728'],
     range_color=(0, 1.0),
-    title="Injury Treemap (National Estimates)"
+    title="All Injuries (National Estimates)"
 )
 
-# In the treemap hover template (make sure it shows clean numbers)
-fig.update_traces(
-    hovertemplate=(
-        "<b>%{label}</b><br>" +
-        "National Estimate: %{value:,.0f}<br>" +   # this already rounds nicely
-        "Avg Severity: %{color:.2f}"
-    )
+fig_all.update_traces(
+    hovertemplate="<b>%{label}</b><br>National Estimate: %{value:,.0f}<br>Avg Severity: %{color:.2f}"
 )
-fig.update_layout(height=800)
-st.plotly_chart(fig, use_container_width=True)
+fig_all.update_layout(height=750)
 
-# Summary table
-st.subheader("Summary Table")
-st.dataframe(filtered.sort_values('national_estimate', ascending=False), use_container_width=True)
+st.plotly_chart(fig_all, use_container_width=True)
 
-# Downloads
-st.download_button("Download Treemap as HTML", fig.to_html(), "injury_treemap.html")
-st.download_button("Download Data as CSV", filtered.to_csv(index=False), "injury_data.csv")
+# ==================== SERIOUS INJURIES ONLY ====================
+
+st.subheader("Amputations & Fatalities Only")
+
+def load_agg_serious():
+    return pd.read_csv('agg_serious.csv')   # ← your pre-computed file
+
+agg_serious = load_agg_serious()
+
+agg_serious['national_estimate'] = agg_serious['national_estimate'].round(0).astype(int)
+agg_serious['avg_Severity'] = agg_serious['avg_Severity'].round(2)
+
+fig_serious = px.treemap(
+    agg_serious,
+    path=['broad_category', 'Prod'],
+    values='national_estimate',
+    color='avg_Severity',
+    color_continuous_scale=['#ffbb78', '#ff7f0e', '#d62728'],
+    range_color=(4.0, 8.0),
+    title="Amputations & Fatalities Only (National Estimates)"
+)
+
+fig_serious.update_traces(
+    hovertemplate="<b>%{label}</b><br>National Estimate: %{value:,.0f}<br>Avg Severity: %{color:.2f}"
+)
+fig_serious.update_layout(height=750)
+
+st.plotly_chart(fig_serious, use_container_width=True)

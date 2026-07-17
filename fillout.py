@@ -168,6 +168,44 @@ def assign_product_name(code):
     else:
         return product_map[code]
 
+def compute_funny_score(df):
+    # Make a copy so we don't modify original
+    df = df.copy()
+    
+    text = df['Narrative_1'].fillna("").astype(str).str.lower()
+    
+    # 1. Length component (longer = potentially funnier)
+    length_score = text.str.len() / 100.0   # normalize roughly
+    
+    # 2. Keyword score - absurd/slapstick keywords
+    funny_keywords = [
+        r'\b(trip|tripped|slipped|fell|falling|landed on|hit.*(floor|table|sink|toilet|dog|bone))',
+        r'\b(toilet|bathroom|shower|bed|chair|stairs|porch|ladder|trampoline)',
+        r'\b(dog|cat|pet|bone|vape|pot|conditioner|sink|toilet)',
+        r'\b(embarrassing|ridiculous|stupid|crazy|hilarious|wtf|omg|lol)',
+        r'\b(stood up|stood from|got up from).*?(toilet|bed|chair)',
+        r'\b(slid|sliding|missed.*step|gave out|buckled|collapsed)'
+    ]
+    
+    keyword_score = text.str.contains('|'.join(funny_keywords), regex=True, na=False).astype(int) * 3
+    
+    # 3. Bonus for multiple funny elements
+    num_elements = (
+        text.str.contains(r'\b(fell|trip|slip)', na=False).astype(int) +
+        text.str.contains(r'\b(toilet|bathroom|dog|bone|vape)', na=False).astype(int) +
+        text.str.contains(r'\b(pot|conditioner|sink|stairs)', na=False).astype(int)
+    )
+    
+    # Final score
+    df['funny_score'] = (
+        length_score * 0.4 +
+        keyword_score * 1.2 +
+        num_elements * 2.0
+    ).round(2)
+    
+    return df
+
+
 # 2. Load the file (update the path after upload)
 file_path = 'neiss2025(NEISS_2025).csv'
 
@@ -197,6 +235,12 @@ df["broad_category"] = df["Prod"].apply(assign_category).fillna("Other / Unknown
 
 print(df["broad_category"].value_counts())
 
+df = compute_funny_score(df)
+
+# See the funniest ones
+pd.set_option('display.max_colwidth', None)   # Show full text
+print(df.nlargest(10, 'funny_score')[['Narrative_1', 'funny_score']])
+
 df.to_csv('Full Labeled Set,csv')
 
 # now filter on Severity
@@ -204,20 +248,31 @@ filtered = df[df['Severity'] > 1]
 filtered.to_csv('bad_cases.csv')
 
 
-# Aggregation
-agg = df.groupby(['broad_category', 'Prod']).agg(
+agg_all = df.groupby(['broad_category', 'Prod']).agg(
     national_estimate=('Weight', 'sum'),
-    Amputation=('Amputation', 'sum'),
-    Fatality=('Fatality', 'sum'),
-    Hospitalized=('Hospitalized', 'sum'),
-    avg_Severity=('Severity', 'mean'),
-    raw_count=('Weight', 'size')
+    avg_Severity=('Severity', 'mean')
 ).reset_index()
 
-agg['avg_Severity'] = agg['avg_Severity'].round(2)
-agg['national_estimate'] = agg['national_estimate'].round(0).astype(int)
+agg_all['national_estimate'] = agg_all['national_estimate'].round(0).astype(int)
+agg_all['avg_Severity'] = agg_all['avg_Severity'].round(2)
+agg_all.to_csv('agg_all.csv')
 
 
-agg.to_csv('aggregated.csv')
+# Filter the ORIGINAL df for cases with Amputation or Fatality
+serious_df = df[(df['Amputation'] == True) | (df['Fatality'] == True)]
+
+# Re-aggregate only those serious cases
+agg_serious = serious_df.groupby(['broad_category', 'Prod']).agg(
+    national_estimate=('Weight', 'sum'),
+    avg_Severity=('Severity', 'mean')
+).reset_index()
+
+agg_serious['national_estimate'] = agg_serious['national_estimate'].round(0).astype(int)
+agg_serious['avg_Severity'] = agg_serious['avg_Severity'].round(2)
+
+agg_serious.to_csv('agg_serious.csv')
+
+
+
 
 

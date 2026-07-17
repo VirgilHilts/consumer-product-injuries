@@ -1,0 +1,760 @@
+,broad_category,Prod,national_estimate,avg_Severity
+0,child nursery equipment and supplies,ATTACHABLE HIGH CHAIRS (INCL. BOOSTER SE,407,0.0
+1,child nursery equipment and supplies,BABY BATHS OR BATHINETTES,251,0.0
+2,child nursery equipment and supplies,BABY BATHTUB SEATS OR RINGS (NOT TOYS),184,0.57
+3,child nursery equipment and supplies,BABY BOTTLES OR NIPPLES,1554,0.32
+4,child nursery equipment and supplies,BABY BOUNCER SEATS (EXCL. JUMPERS),1534,0.06
+5,child nursery equipment and supplies,BABY CARRIAGES,384,0.36
+6,child nursery equipment and supplies,BABY CARRIERS (BICYCLE-MOUNTED),125,0.0
+7,child nursery equipment and supplies,"BABY CARRIERS, NOT SPECIFIED",1165,0.11
+8,child nursery equipment and supplies,BABY CHANGING TABLES,3378,0.14
+9,child nursery equipment and supplies,BABY EXERCISERS,102,0.0
+10,child nursery equipment and supplies,BABY GATES OR BARRIERS,8698,0.1
+11,child nursery equipment and supplies,BABY HARNESSES,99,0.0
+12,child nursery equipment and supplies,BABY MATTRESSES OR PADS,220,0.0
+13,child nursery equipment and supplies,BABY RATTLES,148,0.67
+14,child nursery equipment and supplies,BABY STROLLERS,12747,0.09
+15,child nursery equipment and supplies,BABY WALKERS OR JUMPERS,2839,0.06
+16,child nursery equipment and supplies,BASSINETS OR CRADLES,2084,0.11
+17,child nursery equipment and supplies,BOOK BAGS OR BACK CARRIERS (EXCL. BABY C,13796,0.08
+18,child nursery equipment and supplies,BOTTLE WARMERS,99,0.4
+19,child nursery equipment and supplies,CAR SEATS (FOR INFANTS OR CHILDREN),5916,0.16
+20,child nursery equipment and supplies,CRIB MOBILES OR CRIB GYMS,52,0.0
+21,child nursery equipment and supplies,DIAPER FASTENERS,46,0.0
+22,child nursery equipment and supplies,DIAPER PAILS,15,0.0
+23,child nursery equipment and supplies,DIAPERS,3984,0.14
+24,child nursery equipment and supplies,"DOLLIES, HANDTRUCKS OR LUGGAGE CARRIERS",4539,0.14
+25,child nursery equipment and supplies,HIGH CHAIRS,9715,0.09
+26,child nursery equipment and supplies,"INFANT&TODDLER PLAY CTRS,EXCL JUMPERS,BO",991,0.11
+27,child nursery equipment and supplies,NONBABY MATTRESSES,2220,0.17
+28,child nursery equipment and supplies,OTHER BABY CARRIERS,414,0.31
+29,child nursery equipment and supplies,PACIFIERS OR TEETHING RINGS,1031,0.07
+30,child nursery equipment and supplies,PLAYPENS,3610,0.08
+31,child nursery equipment and supplies,PORTABLE BABY SWINGS (FOR HOME USE),883,0.05
+32,child nursery equipment and supplies,PORTABLE CRIBS,229,0.0
+33,child nursery equipment and supplies,POTTY CHAIRS OR TRAINING SEATS,299,0.0
+34,child nursery equipment and supplies,SHOELACE FASTENERS (FOR INFANTS),49,0.0
+35,child nursery equipment and supplies,TODDLER BEDS,711,0.09
+36,cleaning equipment and chemicals,ABRASIVE CLEANERS,644,0.1
+37,cleaning equipment and chemicals,"AMMONIA, HOUSEHOLD",1051,0.08
+38,cleaning equipment and chemicals,"AUTOMOTIVE WAXES, POLISHES OR CLEANERS",373,0.17
+39,cleaning equipment and chemicals,BLEACHERS,14555,0.08
+40,cleaning equipment and chemicals,BLEACHES (NONCOSMETIC),12473,0.13
+41,cleaning equipment and chemicals,BUCKETS OR PAILS,14442,0.21
+42,cleaning equipment and chemicals,CAUSTICS,141,0.8
+43,cleaning equipment and chemicals,"DETERGENTS, NOT SPECIFIED",2121,0.09
+44,cleaning equipment and chemicals,DRAIN CLEANERS,1721,0.24
+45,cleaning equipment and chemicals,FLOOR BUFFERS OR WAXERS,52,0.0
+46,cleaning equipment and chemicals,FLOOR WAXES,626,0.11
+47,cleaning equipment and chemicals,GENERAL PURPOSE HOUSEHOLD CLEANERS,11332,0.14
+48,cleaning equipment and chemicals,LAUNDRY SOAPS OR DETERGENTS,15814,0.06
+49,cleaning equipment and chemicals,LUNCH BOXES OR PAILS,673,0.25
+50,cleaning equipment and chemicals,MANUAL CLEANING EQUIPMENT (EXCL. BUCKETS,27589,0.22
+51,cleaning equipment and chemicals,"METAL POLISHES, TARNISH REMOVERS OR PREV",101,0.0
+52,cleaning equipment and chemicals,PINE OIL CLEANING AND DISINFECTANT PREPA,733,0.44
+53,cleaning equipment and chemicals,"POLISHES, NOT SPECIFIED",28,0.0
+54,cleaning equipment and chemicals,SHOE POLISHES,40,0.0
+55,cleaning equipment and chemicals,SOAPS (EXCL. LAUNDRY SOAPS OR DETERGENTS,21126,0.06
+56,cleaning equipment and chemicals,SPOT REMOVERS OR CLEANING FLUIDS,320,0.22
+57,cleaning equipment and chemicals,WALLPAPER CLEANERS (CHEMICAL),101,0.0
+58,clothing apparel and accessories,"ARCHERY (ACTIVITY, APPAREL OR EQUIPMENT)",3342,0.41
+59,clothing apparel and accessories,"BADMINTON (ACTIVITY, APPAREL OR EQUIPMEN",2713,0.03
+60,clothing apparel and accessories,"BOWLING (ACTIVITY, APPAREL OR EQUIPMENT)",13105,0.06
+61,clothing apparel and accessories,"BOXING (ACTIVITY, APPAREL OR EQUIPMENT)",20845,0.02
+62,clothing apparel and accessories,"CHEERLEADING (ACTIVITY, APPAREL OR EQUIP",27777,0.05
+63,clothing apparel and accessories,CLOTHING ACCESSORIES,21241,0.35
+64,clothing apparel and accessories,"CLOTHING, NOT SPECIFIED",30698,0.41
+65,clothing apparel and accessories,COSTUMES OR MASKS,1172,0.11
+66,clothing apparel and accessories,"CROQUET (ACTIVITY, APPAREL OR EQUIPMENT)",163,0.5
+67,clothing apparel and accessories,"CURLING (ACTIVITY, APPAREL OR EQUIPMENT)",26,0.0
+68,clothing apparel and accessories,"DANCING (ACTIVITY, APPAREL OR EQUIPMENT)",54879,0.09
+69,clothing apparel and accessories,DAY WEAR,109812,0.36
+70,clothing apparel and accessories,"FENCING (ACTIVITY, APPAREL OR EQUIPMENT)",869,0.12
+71,clothing apparel and accessories,"FIELD HOCKEY (ACTIVITY, APPAREL OR EQUIP",3310,0.02
+72,clothing apparel and accessories,FOOTWEAR,208038,0.25
+73,clothing apparel and accessories,"GOLF (ACTIVITY, APPAREL OR EQUIPMENT)",45008,0.39
+74,clothing apparel and accessories,HATCHETS OR AXES,9596,0.15
+75,clothing apparel and accessories,"HOCKEY (ACTIVITY, APPAREL OR EQUIPMENT),",18023,0.05
+76,clothing apparel and accessories,"HORSEBACK RIDING (ACTIVITY, APPAREL, EQ)",38941,0.43
+77,clothing apparel and accessories,"HORSESHOES (ACTIVITY, APPAREL OR EQUIPME",263,0.0
+78,clothing apparel and accessories,"ICE HOCKEY (ACTIVITY, APPAREL OR EQUIPME",21412,0.08
+79,clothing apparel and accessories,"ICE OR SNOW BOATING (ACTIVITY, APPAREL O",109,0.0
+80,clothing apparel and accessories,"ICE SKATING (ACTIVITY, APPAREL OR EQUIPM",24507,0.12
+81,clothing apparel and accessories,"IN-LINE SKATING (ACTIVITY, APPAREL, EQ.)",9980,0.11
+82,clothing apparel and accessories,JEWELRY,126212,0.04
+83,clothing apparel and accessories,"LACROSSE (ACTIVITY, APPAREL OR EQUIPMENT",15306,0.07
+84,clothing apparel and accessories,"MARTIAL ARTS (ACTIVITY, APPAREL OR EQUIP",35395,0.07
+85,clothing apparel and accessories,"MOUNTAIN CLIMBING (ACTIVITY, APPAREL OR",6904,0.28
+86,clothing apparel and accessories,NIGHTWEAR,5770,0.46
+87,clothing apparel and accessories,OTHER CLOTHING,624,0.15
+88,clothing apparel and accessories,"ROLLER HOCKEY (ACTIVITY, APPAREL, EQUIP.",428,0.0
+89,clothing apparel and accessories,"ROLLER SKATING (ACTIVITY, APPAREL OR EQU",28406,0.11
+90,clothing apparel and accessories,"SCUBA DIVING (ACTIVITY, APPAREL OR EQUIP",1749,0.32
+91,clothing apparel and accessories,"SHUFFLEBOARD (ACTIVITY, APPAREL OR EQUIP",109,0.0
+92,clothing apparel and accessories,"SKATING (ACTIVITY, APPAREL OR EQUIPMENT)",6373,0.07
+93,clothing apparel and accessories,"SKEET SHOOTING (ACTIVITY, APPAREL OR EQU",703,0.55
+94,clothing apparel and accessories,"SNOW TUBING (ACTIVITY, APPAREL OR EQUIPM",1308,0.22
+95,clothing apparel and accessories,"SNOWMOBILES (ACTIVITY, APPAREL OR EQUIPM",6205,0.31
+96,clothing apparel and accessories,"SOCCER (ACTIVITY, APPAREL OR EQUIP.)",255825,0.07
+97,clothing apparel and accessories,"STREET HOCKEY (ACTIVITY, APPAREL OR EQUI",746,0.15
+98,clothing apparel and accessories,"TENNIS (ACTIVITY, APPAREL OR EQUIPMENT)",18834,0.26
+99,clothing apparel and accessories,"TIE RACKS, BELT RACKS OR OTHER CLOTHES H",3421,0.17
+100,clothing apparel and accessories,"TRACK & FIELD (ACTIVITY, APPAREL OR EQUI",31465,0.13
+101,clothing apparel and accessories,WATCHES,1730,0.38
+102,clothing apparel and accessories,"WATER POLO (ACTIVITY, APPAREL OR EQUIPME",804,0.08
+103,clothing apparel and accessories,"WATER TUBING (ACTIVITY, APPAREL OR EQUIP",5559,0.12
+104,clothing apparel and accessories,"WRESTLING (ACTIVITY, APPAREL OR EQUIPMEN",54969,0.09
+105,furniture and furnishings,BEACH CHAIRS OR FOLDING CHAIRS,8696,0.2
+106,furniture and furnishings,BED RAILS,6569,0.37
+107,furniture and furnishings,"BEDDING, NOT SPECIFIED",1086,0.35
+108,furniture and furnishings,"BEDS OR BEDFRAMES, OTHER OR NOT SPEC",731255,0.49
+109,furniture and furnishings,"BEDSPREADS, THROWS OR COMFORTERS",1554,0.57
+110,furniture and furnishings,BENCH OR TABLE SAWS,30191,0.74
+111,furniture and furnishings,BUNK BEDS,32880,0.16
+112,furniture and furnishings,CABINET OR DOOR HARDWARE,26919,0.22
+113,furniture and furnishings,"CABINETS, RACKS, ROOM DIVIDERS AND SHELV",157013,0.19
+114,furniture and furnishings,"CHAIRS, OTHER OR NOT SPECIFIED",345334,0.4
+115,furniture and furnishings,"CONVERTIBLE BEDS, HIDEAWAY BEDS OR SOFA",571,0.0
+116,furniture and furnishings,DESK SUPPLIES,9447,0.1
+117,furniture and furnishings,"DESKS, CHESTS, BUREAUS OR BUFFETS",113293,0.24
+118,furniture and furnishings,"DRAPERIES, CURTAINS, SHOWER CURTAINS(FAB",7359,0.37
+119,furniture and furnishings,"DRAPERY OR CURTAIN RODS, HOOKS OR RINGS",3256,0.14
+120,furniture and furnishings,"DRUGS OR MEDICATIONS, NOT SPECIFIED",181,0.29
+121,furniture and furnishings,"FLOOR OR TABLE LAMPS, ELECTRIC EXCL HALO",7203,0.23
+122,furniture and furnishings,"FLOOR OR TABLE LAMPS, HALOGEN",134,0.5
+123,furniture and furnishings,"FOOTSTOOLS, OTTOMANS OR HASSOCKS",6517,0.18
+124,furniture and furnishings,FURNITURE POLISHES OR WAXES,455,0.25
+125,furniture and furnishings,"FURNITURE, NOT SPECIFIED",73049,0.22
+126,furniture and furnishings,FUTONS,1471,0.2
+127,furniture and furnishings,INFLATABLE FURNITURE,3030,0.18
+128,furniture and furnishings,INFLATABLE TOYS,659,0.38
+129,furniture and furnishings,LIQUID DRUGS,1856,0.34
+130,furniture and furnishings,"MATTRESSES, NOT SPECIFIED",16011,0.26
+131,furniture and furnishings,OTHER BEDDING,646,0.86
+132,furniture and furnishings,OTHER DRUGS OR MEDICATIONS,3926,0.48
+133,furniture and furnishings,OTHER FURNITURE,814,0.27
+134,furniture and furnishings,OTHER PORTABLE OR STATIONARY POWER TOOLS,3071,0.15
+135,furniture and furnishings,PORTABLE CIRCULAR POWER SAWS,10366,0.73
+136,furniture and furnishings,PORTABLE FOOD OR BEVERAGE COOLERS,6147,0.14
+137,furniture and furnishings,PORTABLE POWER DRILLS AND ACCESSORIES,1281,0.26
+138,furniture and furnishings,PORTABLE SWIMMING POOLS,1415,0.26
+139,furniture and furnishings,RECLINER CHAIR,46355,0.65
+140,furniture and furnishings,ROCKING CHAIR,5628,0.14
+141,furniture and furnishings,RUG SHAMPOOERS,285,0.33
+142,furniture and furnishings,"RUGBY (ACTIVITY, APPAREL OR EQUIPMENT)",9618,0.09
+143,furniture and furnishings,"RUGS OR CARPETS, NOT SPECIFIED",133157,0.39
+144,furniture and furnishings,"RUNNERS, THROW RUGS OR DOORMATS",20881,0.38
+145,furniture and furnishings,"SOFAS, COUCHES, DAVENPORTS, DIVANS OR ST",169836,0.29
+146,furniture and furnishings,TABLE LINENS,294,0.25
+147,furniture and furnishings,"TABLE TENNIS (ACTIVITY, APPAREL OR EQUIP",2107,0.47
+148,furniture and furnishings,"TABLES, NOT ELSEWHERE CLASSIFIED",321650,0.21
+149,furniture and furnishings,TABLET OR CAPSULE DRUGS,15576,0.57
+150,furniture and furnishings,TABLEWARE AND ACCESSORIES,52795,0.19
+151,furniture and furnishings,TELEVISION TABLES OR STANDS,11434,0.14
+152,furniture and furnishings,TOY BOXES OR CHESTS,2963,0.06
+153,furniture and furnishings,WATERBEDS OR WATER PILLOWS,26,0.0
+154,home entertainment and electronics,AMATEUR TWO-WAY RADIOS,59,0.0
+155,home entertainment and electronics,PROJECTORS,208,0.0
+156,home entertainment and electronics,RADIOS (SELF-CONTAINED UNITS),345,0.0
+157,home entertainment and electronics,"RADIOS, NOT SPECIFIED",273,0.25
+158,home entertainment and electronics,STEREO OR HI-FI COMPONENTS OR ACCESSORIE,16805,0.05
+159,home entertainment and electronics,TELEPHONES OR TELEPHONE ACCESSORIES,35649,0.23
+160,home entertainment and electronics,TELEVISIONS,17719,0.21
+161,home entertainment and electronics,VIDEO PLAYERS AND RECORDERS(EXCL.CAMERAS,558,0.17
+162,home structures and construction materials,AUTOMATIC DOORS OR DOOR OPENERS,1470,0.24
+163,home structures and construction materials,AUTOMATIC GARAGE DOORS OR DOOR OPENERS,1553,0.39
+164,home structures and construction materials,CEILINGS AND WALLS (PART OF COMPLETED ST,354611,0.22
+165,home structures and construction materials,COUNTERS OR COUNTERTOPS,73992,0.27
+166,home structures and construction materials,"DARTS, INDOOR USE (ACTIVITY OR EQUIP.)",177,0.57
+167,home structures and construction materials,DOOR SILLS OR FRAMES,72387,0.23
+168,home structures and construction materials,"DOORS, OTHER OR NOT SPECIFIED",268680,0.2
+169,home structures and construction materials,DOORSTOPS,1352,0.24
+170,home structures and construction materials,FLOOR FURNACES (BUILT INTO FLOOR),78,0.0
+171,home structures and construction materials,FLOORS OR FLOORING MATERIALS,2702263,0.62
+172,home structures and construction materials,GARAGE DOORS (EXCL. AUTOMATIC GARAGE DOO,14411,0.37
+173,home structures and construction materials,"HANDRAILS, RAILINGS OR BANISTERS",51630,0.24
+174,home structures and construction materials,OUTDOOR ANTENNAS (SEPARATE),426,0.75
+175,home structures and construction materials,OUTDOOR AWNINGS OR SHUTTERS,1744,0.19
+176,home structures and construction materials,"PORCHES, BALCONIES, OPEN-SIDE FLOORS OR",127107,0.39
+177,home structures and construction materials,PULL-DOWN OR FOLDING STAIRS,790,0.46
+178,home structures and construction materials,RAMPS OR LANDINGS,26348,0.37
+179,home structures and construction materials,"ROOM-SIZED, WALL-TO-WALL OR OUTDOOR CARP",14866,0.24
+180,home structures and construction materials,STAIRS OR STEPS,1127248,0.3
+181,home structures and construction materials,STORM WINDOWS,420,0.0
+182,home structures and construction materials,THERMAL OR SOUND INSULATION MATERIALS,1877,0.13
+183,home structures and construction materials,WINDOW OR DOOR SECURITY BARRIERS,1145,0.4
+184,home structures and construction materials,WINDOW SCREENS,852,0.59
+185,home structures and construction materials,"WINDOW SHADES, VENETIAN BLINDS OR INDOOR",3031,0.31
+186,home structures and construction materials,WINDOW SILLS OR FRAMES,18539,0.1
+187,home structures and construction materials,"WINDOWS & WINDOW GLASS, EXCL STORM WINDO",74864,0.33
+188,household appliances,AIR CONDITIONERS,13331,0.2
+189,household appliances,AIR PURIFIERS,393,0.0
+190,household appliances,"CLOTHES DRYERS, NOT SPECIFIED",7310,0.24
+191,household appliances,CLOTHING IRONS,3184,0.1
+192,household appliances,COAL OR WOOD-BURNING STOVES,2940,0.32
+193,household appliances,"COFFEE MAKERS OR TEAPOTS, NOT SPECIFIED",2866,0.26
+194,household appliances,DEHUMIDIFIERS,463,0.29
+195,household appliances,DISHWASHER DETERGENTS,1671,0.1
+196,household appliances,DISHWASHERS,10825,0.19
+197,household appliances,ELECTRIC BASEBOARD HEATERS,521,0.4
+198,household appliances,ELECTRIC BLENDERS,8654,0.03
+199,household appliances,ELECTRIC CLOTHES DRYERS WITHOUT WASHERS,80,0.0
+200,household appliances,ELECTRIC COFFEE MAKERS OR TEAPOTS,85,0.0
+201,household appliances,"ELECTRIC COUNTER-TOP OVENS, BROILERS OR",242,0.0
+202,household appliances,ELECTRIC DEEP FRYERS,833,0.27
+203,household appliances,"ELECTRIC HEATERS, NOT ELSEWHERE CLASSIFI",703,0.31
+204,household appliances,ELECTRIC KETTLES OR HOT POTS,452,0.29
+205,household appliances,ELECTRIC MIXERS,1059,0.08
+206,household appliances,ELECTRIC RANGES OR OVENS (EXCL COUNTER-T,2314,0.1
+207,household appliances,ELECTRIC WAFFLE IRONS,99,0.0
+208,household appliances,ELECTRIC WATER HEATERS,131,0.0
+209,household appliances,FANS,16787,0.14
+210,household appliances,FAUCET WATER HEATERS,52,0.0
+211,household appliances,FREEZERS (SEPARATE FROM REFRIGERATORS),6578,0.18
+212,household appliances,GARBAGE DISPOSERS,387,0.5
+213,household appliances,GAS CLOTHES DRYERS WITHOUT WASHERS,206,0.0
+214,household appliances,GAS OR LP GRILLS OR STOVES,1738,0.31
+215,household appliances,"GAS OR LP HEATERS, OTHER OR NOT SPEC",1167,0.12
+216,household appliances,GAS RANGES OR OVENS,4500,0.21
+217,household appliances,GAS WATER HEATERS,436,0.33
+218,household appliances,"HAIR CURLERS, CURLING IRONS, CLIPS & HAI",12174,0.11
+219,household appliances,HAIR DRYERS,1695,0.13
+220,household appliances,"HEATERS OR HEATING SYSTEMS, OTHER/N.S.",9247,0.37
+221,household appliances,HUMIDIFIERS,768,0.29
+222,household appliances,ICE MAKERS (SEPARATE FROM REFRIGERATORS),476,0.33
+223,household appliances,IRONING BOARDS OR COVERS,1121,0.18
+224,household appliances,KEROSENE GRILLS OR STOVES,183,0.0
+225,household appliances,KEROSENE OR OIL HEATERS,474,0.22
+226,household appliances,"METAL CHIMNEYS, STOVEPIPES OR FLUES",235,0.0
+227,household appliances,MICROWAVE OVENS,10494,0.25
+228,household appliances,OTHER GRILLS OR STOVES,3155,0.2
+229,household appliances,OTHER RANGES OR OVENS,1287,0.42
+230,household appliances,OUTDOOR PATIO HEATERS OR FIREPITS (MANUF,6573,0.37
+231,household appliances,OVEN CLEANERS,600,0.14
+232,household appliances,PORTABLE ELECTRIC HEATERS,2586,0.48
+233,household appliances,PORTABLE GAS OR LP HEATERS,863,0.5
+234,household appliances,"POTHOLDERS, OVEN MITTS OR HOT PADS",339,0.0
+235,household appliances,PREPARATIONS CONTAINING IRON SALTS,417,0.48
+236,household appliances,"RANGES OR OVENS, NOT SPECIFIED",32969,0.23
+237,household appliances,REFRIGERATORS,38330,0.3
+238,household appliances,SLOW COOKERS,1965,0.1
+239,household appliances,TOASTERS,728,0.22
+240,household appliances,TRASH COMPACTORS,365,0.57
+241,household appliances,UNPOWERED COFFEE MAKERS OR TEAPOTS,371,0.2
+242,household appliances,VACUUM CLEANERS,15542,0.26
+243,household appliances,VACUUM CONTAINERS,1786,0.25
+244,household appliances,"WATER HEATERS, NOT SPECIFIED",3152,0.26
+245,kitchen and cooking equipment,CHAFING DISHES OR FONDUE POTS,35,0.0
+246,kitchen and cooking equipment,CHARCOAL OR WOOD-BURNING GRILLS,1136,0.21
+247,kitchen and cooking equipment,"COOKWARE, NOT SPECIFIED",25203,0.3
+248,kitchen and cooking equipment,ELECTRIC GRILLS,274,0.5
+249,kitchen and cooking equipment,ELECTRIC KNIFE SHARPENERS,28,0.0
+250,kitchen and cooking equipment,FLATWARE (EXCLUDING KNIVES),8021,0.18
+251,kitchen and cooking equipment,FOOD PROCESSORS,1951,0.26
+252,kitchen and cooking equipment,FUELS FOR CHAFING DISHES OR FONDUE POTS,77,0.67
+253,kitchen and cooking equipment,GLASS DOORS OR DOORS W/GLASS PANELS,20566,0.17
+254,kitchen and cooking equipment,"GRILLS, NOT SPECIFIED",10162,0.24
+255,kitchen and cooking equipment,"KITCHEN MIXING BOWLS, CANISTERS OR SIMIL",1856,0.06
+256,kitchen and cooking equipment,"KNIFE SHARPENERS, NOT SPECIFIED",1533,0.27
+257,kitchen and cooking equipment,METAL COOKWARE (NONELECTRIC),5088,0.2
+258,kitchen and cooking equipment,NONELECTRIC KNIFE SHARPENERS,153,0.0
+259,kitchen and cooking equipment,NONMETAL COOKWARE (NONELECTRIC),1393,0.08
+260,kitchen and cooking equipment,OTHER COOKWARE,3555,0.12
+261,kitchen and cooking equipment,"PANELBOARDS, CIRCUIT BREAKERS, GFCI'S",2044,0.13
+262,kitchen and cooking equipment,PLANT FOODS OR FERTILIZERS FOR POTTED PL,182,0.0
+263,kitchen and cooking equipment,PLASTIC PANELS FOR DOORS OR WINDOWS,124,0.0
+264,kitchen and cooking equipment,PRESSURE COOKERS OR CANNERS,1650,0.2
+265,kitchen and cooking equipment,"PROPANE, LP OR BUTANE GAS TANKS OR FITTI",6103,0.57
+266,kitchen and cooking equipment,WOOD PANELING AND PARTICLEBOARD,1174,0.09
+267,lighting and electrical equipment,CHRISTMAS TREE LIGHTS,2145,0.34
+268,lighting and electrical equipment,CIGARETTE OR PIPE LIGHTERS,1949,0.84
+269,lighting and electrical equipment,ELECTRIC CHANDELIERS OR OTHER ATTACHED L,3478,0.19
+270,lighting and electrical equipment,"ELECTRIC LIGHTING EQUIPMENT, NOT SPECIFI",2002,0.17
+271,lighting and electrical equipment,ELECTRIC MULTI-PURPOSE LIGHTERS,101,1.0
+272,lighting and electrical equipment,ELECTRICAL OUTLETS OR RECEPTACLES,5880,0.17
+273,lighting and electrical equipment,EXTENSION CORDS,3683,0.2
+274,lighting and electrical equipment,FUEL MULTI-PURPOSE LIGHTERS (INC. MICRO,1177,0.48
+275,lighting and electrical equipment,FUEL-BURNING LIGHTING EQUIPMENT,403,0.67
+276,lighting and electrical equipment,GENERATORS OR POWER PLANTS,4293,0.44
+277,lighting and electrical equipment,HEAT OR INFRARED LAMPS,269,0.0
+278,lighting and electrical equipment,LAMP OILS,77,0.0
+279,lighting and electrical equipment,LIGHT BULBS,7298,0.21
+280,lighting and electrical equipment,LIGHTER FLUIDS,1787,0.79
+281,lighting and electrical equipment,"LIGHTERS, NOT SPECIFIED",2216,0.68
+282,lighting and electrical equipment,"LIGHTING EQUIPMENT, NOT SPECIFIED",2658,0.33
+283,lighting and electrical equipment,"LIGHTNING RODS, ARRESTERS OR OTHER GROUN",84,0.0
+284,lighting and electrical equipment,"MULTI-PURPOSE LIGHTERS, NOT SPEC.",35,0.0
+285,lighting and electrical equipment,NIGHT-LIGHTS,180,0.0
+286,lighting and electrical equipment,OTHER ELECTRIC LIGHTING EQUIPMENT,1190,0.14
+287,lighting and electrical equipment,OUTDOOR ELECTRIC LIGHTING EQUIPMENT,807,0.22
+288,lighting and electrical equipment,SURGE SUPPRESSORS OR POWER STRIPS,275,0.0
+289,other / not elsewhere classified,<5 POISONING - NO OTHER CODE,1061,0.18
+290,other / not elsewhere classified,ACIDS,1063,0.18
+291,other / not elsewhere classified,ADHESIVES,8665,0.01
+292,other / not elsewhere classified,ALL TERRAIN VEHICLES (MORE THAN 4 WHEELS,406,0.0
+293,other / not elsewhere classified,"ALL-TERRAIN VEHICLES, 3 WHEELS ONLY, EXC",2073,0.46
+294,other / not elsewhere classified,"ALL-TERRAIN VEHICLES, 4 WHEELS ONLY (EXC",48211,0.39
+295,other / not elsewhere classified,"ALL-TERRAIN VEHICLES, NO. WHEELS NS (EXC",33004,0.69
+296,other / not elsewhere classified,ALUMINUM FOIL WRAPPING PRODUCTS,1584,0.05
+297,other / not elsewhere classified,ANIMAL TRAPS,1360,0.43
+298,other / not elsewhere classified,"ANTENNAS, NOT SPECIFIED",237,0.0
+299,other / not elsewhere classified,ANTIFREEZE,1520,0.18
+300,other / not elsewhere classified,ANTIHISTAMINES,1970,0.17
+301,other / not elsewhere classified,"APPLIANCES, OTHER OR NOT SPECIFIED",2083,0.17
+302,other / not elsewhere classified,AQUARIUMS OR ACCESSORIES,4116,0.32
+303,other / not elsewhere classified,ART OR CERAMIC SUPPLIES & EQUIP,7689,0.02
+304,other / not elsewhere classified,ARTIFICIAL CHRISTMAS TREES,1637,0.34
+305,other / not elsewhere classified,ARTIFICIAL FLOWERS OR PLANTS,675,0.21
+306,other / not elsewhere classified,ARTIFICIAL TURF,2350,0.02
+307,other / not elsewhere classified,ASPIRIN OR ASPIRIN COMPOUNDS,395,0.42
+308,other / not elsewhere classified,ASPIRIN SUBSTITUTES,3588,0.14
+309,other / not elsewhere classified,AUTOMOTIVE CHEMICALS,1576,0.12
+310,other / not elsewhere classified,"AWLS, CHISELS OR PLANES",3250,0.14
+311,other / not elsewhere classified,"BARS AND BAR ACCESSORIES, NOT ELSEWHERE",3173,0.14
+312,other / not elsewhere classified,BB'S OR PELLETS,2166,0.18
+313,other / not elsewhere classified,BENCHES,47730,0.2
+314,other / not elsewhere classified,"BLANKETS, NOT SPECIFIED",16683,0.32
+315,other / not elsewhere classified,BOILERS,1223,0.08
+316,other / not elsewhere classified,"BOOKS, MAGAZINES, ALBUMS OR SCRAPBOOKS",5773,0.14
+317,other / not elsewhere classified,BREAD MAKING MACHINES,108,0.0
+318,other / not elsewhere classified,"BRICK, STONE OR MASONRY CHIMNEYS",211,0.0
+319,other / not elsewhere classified,"BRUSHCUTTERS, POWERED",503,1.0
+320,other / not elsewhere classified,BUILT-IN FIREPLACES,1326,0.22
+321,other / not elsewhere classified,BURGLAR ALARMS,80,0.0
+322,other / not elsewhere classified,BUSINESS AND OFFICE MACHINES,1663,0.37
+323,other / not elsewhere classified,BUTANE OR LP GAS METERS,119,0.0
+324,other / not elsewhere classified,CARBON MONOXIDE DETECTORS,2339,0.03
+325,other / not elsewhere classified,"CARTS, OTHER OR NOT SPECIFIED",11744,0.18
+326,other / not elsewhere classified,CAULKING OR SPACKLING COMPOUNDS,446,0.0
+327,other / not elsewhere classified,"CHAINS, NOT ELSEWHERE CLASSIFIED",2226,0.33
+328,other / not elsewhere classified,CHARCOAL,807,0.35
+329,other / not elsewhere classified,"CHEMICALS, OTHER AND NOT ELSEWHERE CLASS",10866,0.17
+330,other / not elsewhere classified,CHEMISTRY SETS OR SCIENCE KITS,93,0.0
+331,other / not elsewhere classified,"CHILDREN'S PLAY TENTS, PLAY TUNNELS OR",394,0.0
+332,other / not elsewhere classified,"CHIMNEYS, NOT SPECIFIED",531,0.33
+333,other / not elsewhere classified,CHRISTMAS DECORATIONS (NONELECTRIC),6227,0.25
+334,other / not elsewhere classified,CHRISTMAS TREE STANDS OR SUPPORTS,181,0.0
+335,other / not elsewhere classified,CLOTHES STEAMERS,374,0.0
+336,other / not elsewhere classified,CLOTHESLINES OR CLOTHES DRYING RACKS,654,0.15
+337,other / not elsewhere classified,CLOTHESPINS,92,0.5
+338,other / not elsewhere classified,CO POISONING (SOURCE UNKNOWN),5906,0.24
+339,other / not elsewhere classified,COAXIAL CABLE,860,0.13
+340,other / not elsewhere classified,COIN-OPERATED CAR-WASHING EQUIPMENT,430,0.29
+341,other / not elsewhere classified,COINS,31964,0.38
+342,other / not elsewhere classified,COMPACT DISKS(CDS) AND DVDS,137,0.5
+343,other / not elsewhere classified,"CORDS, ELECTRICAL, OTHER OR NOT SPEC",12647,0.26
+344,other / not elsewhere classified,CORKSCREWS,138,0.0
+345,other / not elsewhere classified,COTS,1040,0.11
+346,other / not elsewhere classified,CRAYONS OR CHALK,2890,0.05
+347,other / not elsewhere classified,CUTTING TORCHES,317,0.44
+348,other / not elsewhere classified,"DARTS, NOT SPECIFIED",570,0.5
+349,other / not elsewhere classified,"DEC WATER FEATURES, INCL PONDS/FOUNTAINS",2033,0.3
+350,other / not elsewhere classified,DIESEL FUELS,371,0.29
+351,other / not elsewhere classified,DISHWASHING LIQUID,1331,0.05
+352,other / not elsewhere classified,DIVING OR DIVING BOARDS,3998,0.28
+353,other / not elsewhere classified,DRAIN SNAKES,365,0.33
+354,other / not elsewhere classified,DRINKING FOUNTAINS,849,0.17
+355,other / not elsewhere classified,DRINKING GLASSES,61571,0.15
+356,other / not elsewhere classified,DRINKING STRAWS,4167,0.07
+357,other / not elsewhere classified,DRY ICE,181,0.4
+358,other / not elsewhere classified,DUCTWORK FOR HEATING OR COOLING SYSTEMS,4984,0.15
+359,other / not elsewhere classified,DUNE BUGGIES,843,0.5
+360,other / not elsewhere classified,EAR PROTECTION DEVICES,1970,0.04
+361,other / not elsewhere classified,ELECTRIC BLANKETS OR SHEETS,388,0.73
+362,other / not elsewhere classified,ELECTRIC CHRISTMAS DECORATIONS (EXCL. TR,3532,0.36
+363,other / not elsewhere classified,ELECTRIC CORN POPPERS,51,0.0
+364,other / not elsewhere classified,"ELECTRIC FIREPLACES, FACTORY BUILT",353,0.57
+365,other / not elsewhere classified,ELECTRIC GRIDDLES,208,0.0
+366,other / not elsewhere classified,ELECTRIC HEATING PADS,3708,0.33
+367,other / not elsewhere classified,ELECTRIC MOTORS (SEPARATE),313,0.0
+368,other / not elsewhere classified,ELECTRIC WIRE OR WIRING SYSTEMS (EXCL. P,3646,0.55
+369,other / not elsewhere classified,ELECTRICAL TESTING EQUIPMENT,52,0.0
+370,other / not elsewhere classified,ELEVATORS OR OTHER LIFTS (EXCL. ESCALATO,15123,0.36
+371,other / not elsewhere classified,ESCALATORS,12618,0.34
+372,other / not elsewhere classified,EYE PROTECTION DEVICES,8750,0.06
+373,other / not elsewhere classified,FABRIC TREATMENT PRODUCTS,1385,0.11
+374,other / not elsewhere classified,FABRICS (NOT PART OF FINISHED ITEM),1210,0.09
+375,other / not elsewhere classified,FAUCETS OR SPIGOTS,4807,0.24
+376,other / not elsewhere classified,FERTILIZERS AND OTHER CHEMICALS FOR OUTD,903,0.27
+377,other / not elsewhere classified,"FERTILIZERS, NOT SPECIFIED",3335,0.21
+378,other / not elsewhere classified,FILTERS,654,0.27
+379,other / not elsewhere classified,FIRE ESCAPE DEVICES,1001,0.3
+380,other / not elsewhere classified,FIRE EXTINGUISHERS,2111,0.15
+381,other / not elsewhere classified,FIRE OR SMOKE ALARMS,1746,0.27
+382,other / not elsewhere classified,FIREPLACE EQUIPMENT,513,0.47
+383,other / not elsewhere classified,"FIREPLACES, NOT SPECIFIED",10498,0.18
+384,other / not elsewhere classified,FIREWORKS,12126,0.73
+385,other / not elsewhere classified,FLARES,52,0.0
+386,other / not elsewhere classified,FLYING DISCS AND BOOMERANGS,5131,0.07
+387,other / not elsewhere classified,FOOD GRINDERS,1479,0.89
+388,other / not elsewhere classified,FOOD SKEWERS,690,0.12
+389,other / not elsewhere classified,FOOD WARMERS,59,1.0
+390,other / not elsewhere classified,FOOTLOCKERS,1016,0.21
+391,other / not elsewhere classified,"FUEL OILS, NOT SPECIFIED",833,0.71
+392,other / not elsewhere classified,FUEL STORAGE TANKS,4960,0.37
+393,other / not elsewhere classified,"FURNACES, NOT SPECIFIED",2053,0.21
+394,other / not elsewhere classified,GAS FUMES OR VAPORS OF UNKNOWN ORIGIN,2771,0.26
+395,other / not elsewhere classified,GAS FURNACES,840,0.0
+396,other / not elsewhere classified,"GAS, AIR OR SPRING-OPERATED GUNS",4340,0.15
+397,other / not elsewhere classified,"GAS-BURNING FIREPLACES, FACTORY BUILT",402,0.0
+398,other / not elsewhere classified,GASOLINE,8456,0.58
+399,other / not elsewhere classified,GENERAL HOME OR ROOM INVOLVEMENT IN FIRE,21471,0.99
+400,other / not elsewhere classified,GLASS TUBING OR TEST TUBES,362,0.29
+401,other / not elsewhere classified,GLUE GUNS,790,0.07
+402,other / not elsewhere classified,GO-CARTS,11151,0.27
+403,other / not elsewhere classified,GOLF CARTS,25145,0.58
+404,other / not elsewhere classified,GROCERY OR SHOPPING CARTS,27794,0.18
+405,other / not elsewhere classified,"GUTTERS, DRAINPIPES, DOWNSPOUTS OR RUN-O",5454,0.59
+406,other / not elsewhere classified,"HAIR GROOMING EQUIPMENT OR ACCESSORIES,",828,0.09
+407,other / not elsewhere classified,HAMMOCKS,6633,0.18
+408,other / not elsewhere classified,HEAT PUMPS,431,0.29
+409,other / not elsewhere classified,"HEAT TAPES, ELECTRIC",163,0.0
+410,other / not elsewhere classified,HEATING OR COOLING COMFORT PACKS (NONELE,1512,0.18
+411,other / not elsewhere classified,"HOISTS, LIFTS, JACKS OR JACK STANDS",7824,0.52
+412,other / not elsewhere classified,HOT PLATES,630,0.15
+413,other / not elsewhere classified,HOT WATER,36375,0.28
+414,other / not elsewhere classified,HOUSE REPAIR OR CONSTRUCTION MAT'L NEC,28337,0.13
+415,other / not elsewhere classified,ICE CREAM MAKERS,160,0.0
+416,other / not elsewhere classified,ICE PICKS,101,0.0
+417,other / not elsewhere classified,INCINERATORS,52,0.0
+418,other / not elsewhere classified,"INSECT TRAPS, POWERED",154,0.0
+419,other / not elsewhere classified,JUICERS,254,0.44
+420,other / not elsewhere classified,KEROSENE,116,2.0
+421,other / not elsewhere classified,"KEYS, KEY RINGS OR KEY CHAINS",5038,0.33
+422,other / not elsewhere classified,"KITCHEN GADGETS, NOT ELSEWHERE CLASSIFIE",21450,0.2
+423,other / not elsewhere classified,KITES OR KITE STRING,185,0.67
+424,other / not elsewhere classified,"KNICKKNACKS, STATUES, VASES OR URNS",11916,0.15
+425,other / not elsewhere classified,KNIVES WITH REPLACEABLE BLADES,35783,0.06
+426,other / not elsewhere classified,"KNIVES, NOT ELSEWHERE CLASSIFIED",313754,0.06
+427,other / not elsewhere classified,LAPIDARY EQUIPMENT,52,0.0
+428,other / not elsewhere classified,LASER POINTERS,282,0.0
+429,other / not elsewhere classified,LAUNDRY BASKETS,10575,0.27
+430,other / not elsewhere classified,LAUNDRY HAMPERS,1711,0.18
+431,other / not elsewhere classified,LEAF BLOWERS,5742,0.32
+432,other / not elsewhere classified,LEVELS,204,0.0
+433,other / not elsewhere classified,LINIMENTS OR RUBBING COMPOUNDS,830,0.11
+434,other / not elsewhere classified,LIQUID ROOM DEODORIZERS OR FRESHENERS,1158,0.22
+435,other / not elsewhere classified,LOCKERS,4582,0.05
+436,other / not elsewhere classified,LOG SPLITTERS,7037,0.43
+437,other / not elsewhere classified,LUGGAGE,19866,0.23
+438,other / not elsewhere classified,LYE,185,0.8
+439,other / not elsewhere classified,MAGAZINE RACKS OR BOOKENDS,214,0.0
+440,other / not elsewhere classified,MANICURING DEVICES,37269,0.16
+441,other / not elsewhere classified,MANUAL SCISSORS,3833,0.11
+442,other / not elsewhere classified,MASSAGE DEVICES OR VIBRATORS,10176,0.41
+443,other / not elsewhere classified,"MATCHES, NOT SPECIFIED",303,0.4
+444,other / not elsewhere classified,METAL OR PLASTIC MOLDING SETS,140,0.0
+445,other / not elsewhere classified,METHYL ALCOHOL (SOLVENT),253,1.14
+446,other / not elsewhere classified,MIRRORS OR MIRROR GLASS,18660,0.1
+447,other / not elsewhere classified,MOLDING COMPOUNDS,3567,0.03
+448,other / not elsewhere classified,"MOTORIZED VEHICLES, NEC (3 OR MORE WHLS)",20450,0.15
+449,other / not elsewhere classified,MOVING WALKS,568,0.17
+450,other / not elsewhere classified,NAIL GUNS OR STUD DRIVERS,4277,0.19
+451,other / not elsewhere classified,"NAILS, SCREWS, TACKS OR BOLTS",73608,0.18
+452,other / not elsewhere classified,NONELECTRIC BLANKETS,974,0.38
+453,other / not elsewhere classified,NONELECTRIC SOLDERING EQUIPMENT,28,0.0
+454,other / not elsewhere classified,OIL FURNACES,26,0.0
+455,other / not elsewhere classified,OTHER SOUND RECORD/REPRO/RECV EQUIPMENT,410,0.5
+456,other / not elsewhere classified,OTHER SPECIFIED PLASTIC PRODUCTS,10819,0.1
+457,other / not elsewhere classified,OUTERWEAR,6973,0.25
+458,other / not elsewhere classified,"PADLOCKS, CHAIN LOCKS OR OTHER LOCKS",1363,0.21
+459,other / not elsewhere classified,"PAINT BRUSHES OF ROLLERS, MANUAL",1995,0.21
+460,other / not elsewhere classified,"PAINT OR VARNISH REMOVERS, PAINTBRUSH CL",746,0.0
+461,other / not elsewhere classified,PAINT OR VARNISH THINNERS,377,0.6
+462,other / not elsewhere classified,"PAINTING EQUIPMENT, POWERED (INCL.SPRAYE",2043,0.33
+463,other / not elsewhere classified,"PAINTS, VARNISHES OR SHELLACS",9532,0.28
+464,other / not elsewhere classified,PAPER CUTTERS,972,0.2
+465,other / not elsewhere classified,PAPER PRODUCTS,26691,0.19
+466,other / not elsewhere classified,PARTY FAVORS,358,0.0
+467,other / not elsewhere classified,PEDAL-POWERED ADULT VEHICLES (THREE OR M,1181,0.64
+468,other / not elsewhere classified,PENS AND PENCILS,18944,0.17
+469,other / not elsewhere classified,PERSONAL PROTECTION DEVICES,3985,0.07
+470,other / not elsewhere classified,PET SUPPLIES,103336,0.21
+471,other / not elsewhere classified,PHONOGRAPH RECORDS,52,0.0
+472,other / not elsewhere classified,PHOTOGRAPHIC CHEMICALS,26,0.0
+473,other / not elsewhere classified,PHOTOGRAPHIC EQUIPMENT,3767,0.31
+474,other / not elsewhere classified,"PICTURES, PICTURE FRAMES OR WALL DECORAT",10939,0.15
+475,other / not elsewhere classified,PILLOWS,12217,0.22
+476,other / not elsewhere classified,PINS AND NEEDLES,8767,0.28
+477,other / not elsewhere classified,PIPES (EXCLUDING SMOKING PIPES),28145,0.14
+478,other / not elsewhere classified,PLASTIC WRAPPING PRODUCTS,3388,0.13
+479,other / not elsewhere classified,POGO STICKS,472,0.24
+480,other / not elsewhere classified,POLES,53545,0.15
+481,other / not elsewhere classified,POWER JOINTERS,373,2.86
+482,other / not elsewhere classified,POWER LATHES,255,1.33
+483,other / not elsewhere classified,POWER LEAF MULCHERS AND GRINDERS,715,0.77
+484,other / not elsewhere classified,POWER ROUTERS,1598,0.08
+485,other / not elsewhere classified,POWER SANDERS,1814,0.4
+486,other / not elsewhere classified,POWER SHAPERS,52,0.0
+487,other / not elsewhere classified,POWER TILLERS OR CULTIVATORS,1257,0.21
+488,other / not elsewhere classified,"PUBLIC EQUIPMENT, NOT ELSEWHERE CLASSIFI",11179,0.19
+489,other / not elsewhere classified,"PUMPS, NOT ELSEWHERE CLASSIFIED",904,0.18
+490,other / not elsewhere classified,RADIATORS (EXCLUDING VEHICLE RADIATORS),7810,0.27
+491,other / not elsewhere classified,RECORD PLAYERS (SELF-CONTAINED UNITS),214,0.0
+492,other / not elsewhere classified,RECORDING TAPES,59,1.0
+493,other / not elsewhere classified,"REMOTE CONTROL, UNIVERSAL OR N.S.",2274,0.41
+494,other / not elsewhere classified,RESIDENTIAL ALTERNATIVE ENERGY SYSTEMS,113,0.0
+495,other / not elsewhere classified,RESPIRATORY PROTECTION DEVICES,232,0.29
+496,other / not elsewhere classified,ROCKETRY SETS,295,0.0
+497,other / not elsewhere classified,"ROOM DEODORIZERS OR FRESHENERS, NOT SPEC",482,0.0
+498,other / not elsewhere classified,ROPE OR STRING,8320,0.19
+499,other / not elsewhere classified,ROTISSERIES,161,1.0
+500,other / not elsewhere classified,SAFES,2205,0.15
+501,other / not elsewhere classified,SAFETY PINS,851,0.27
+502,other / not elsewhere classified,SAUNAS,2188,0.12
+503,other / not elsewhere classified,SCAFFOLDING,5328,0.57
+504,other / not elsewhere classified,SCHOOL EQUIPMENT,1347,0.08
+505,other / not elsewhere classified,SCHOOL LABORATORY CHEMICALS,269,0.0
+506,other / not elsewhere classified,"SCISSORS, NOT SPECIFIED",13915,0.09
+507,other / not elsewhere classified,SEASONAL DECORATIONS,3743,0.22
+508,other / not elsewhere classified,SELF-CONTAINED OPENERS,3073,0.1
+509,other / not elsewhere classified,SEWING BASKET ARTICLES,2807,0.12
+510,other / not elsewhere classified,SEWING MACHINES OR ACCESSORIES,2228,0.13
+511,other / not elsewhere classified,SHEETS OR PILLOWCASES,9249,0.39
+512,other / not elsewhere classified,SINKS,35735,0.32
+513,other / not elsewhere classified,SLEDS,14413,0.12
+514,other / not elsewhere classified,SLICERS AND CHOPPERS,36888,0.1
+515,other / not elsewhere classified,SNOW DISKS,46,2.0
+516,other / not elsewhere classified,"SNOW THROWERS, BLOWERS",5798,0.35
+517,other / not elsewhere classified,"SOLDERING EQUIPMENT, NOT SPECIFIED",239,0.0
+518,other / not elsewhere classified,SOLID ROOM DEODORIZERS OR FRESHENERS,819,0.0
+519,other / not elsewhere classified,"SOLVENTS, OTHER OR NOT SPECIFIED",195,0.0
+520,other / not elsewhere classified,"SOUND RECORDING OR RECEIVING EQUIPMENT,",157,0.0
+521,other / not elsewhere classified,"SPRAYERS, NOT ELSEWHERE CLASSIFIED",10058,0.38
+522,other / not elsewhere classified,STILTS,52,0.0
+523,other / not elsewhere classified,"STRAPS, NON-STRETCH, OTHER, OR NOT SPEC",2081,0.14
+524,other / not elsewhere classified,STRETCH CORDS OR STRAPS,1628,0.18
+525,other / not elsewhere classified,TAPE RECORDERS OR PLAYERS (SELF-CONTAINE,28,0.0
+526,other / not elsewhere classified,TARPAULINS,2535,0.18
+527,other / not elsewhere classified,"TELESCOPES, BINOCULARS, MICROSCOPES, MAG",191,0.22
+528,other / not elsewhere classified,THERMOMETERS (EXCLUDING MEDICAL THERMOME,474,0.0
+529,other / not elsewhere classified,THERMOSTATS (FOR HEATING OR COOLING SYST,683,0.46
+530,other / not elsewhere classified,TOBOGGANS,157,0.0
+531,other / not elsewhere classified,TOILET BOWL PRODUCTS,1760,0.26
+532,other / not elsewhere classified,TOILETS,168024,0.74
+533,other / not elsewhere classified,TOOTHPICKS OR HORS D'OEUVRES PICKS,5842,0.09
+534,other / not elsewhere classified,"TORCHES, NOT SPECIFIED",1051,0.56
+535,other / not elsewhere classified,TOWEL RACKS OR BARS,3559,0.39
+536,other / not elsewhere classified,TOWELS OR CLOTHS,7810,0.24
+537,other / not elsewhere classified,"TRACTORS, OTHER OR NOT SPECIFIED",12231,0.52
+538,other / not elsewhere classified,TRAYS (EXCLUDING FOOD WARMERS),4972,0.28
+539,other / not elsewhere classified,TRICYCLES,2734,0.04
+540,other / not elsewhere classified,TURPENTINE,151,0.0
+541,other / not elsewhere classified,"TWO-WHEELED, POWERED, OFF-ROAD VEHICLES",58193,0.37
+542,other / not elsewhere classified,UMBRELLAS,2897,0.03
+543,other / not elsewhere classified,UNCATEGORIZED PRODUCT (TO BE ASSIGNED),412990,0.29
+544,other / not elsewhere classified,UNICYCLES,807,0.27
+545,other / not elsewhere classified,UTILITY VEHICLES,13368,0.53
+546,other / not elsewhere classified,VAPORIZERS,77,0.0
+547,other / not elsewhere classified,VENDING MACHINES,2072,0.36
+548,other / not elsewhere classified,VETERINARY MEDICINES,191,0.8
+549,other / not elsewhere classified,WAGONS (CHILDREN'S),3219,0.18
+550,other / not elsewhere classified,WALLPAPER,239,0.0
+551,other / not elsewhere classified,"WASHING MACHINES, OTHER OR NOT SPECIFIED",9885,0.18
+552,other / not elsewhere classified,WATER SOFTENERS OR CONDITIONERS (APPLIAN,231,0.5
+553,other / not elsewhere classified,WELDING EQUIPMENT,12658,0.05
+554,other / not elsewhere classified,"WIGS, FALLS OR HAIRPIECES",815,0.35
+555,other / not elsewhere classified,WINDSHIELD WIPER FLUIDS,188,0.0
+556,other / not elsewhere classified,"WIRE, NOT SPECIFIED",9973,0.23
+557,other / not elsewhere classified,"WOOD BURNING FIREPLACES, FACTORY BUILT",318,0.0
+558,other / not elsewhere classified,WOODEN MATCHES,158,0.0
+559,other / not elsewhere classified,WRINGER WASHING MACHINES,52,0.0
+560,outdoor and garden equipment,"DECORATIVE YARD EQUIP,EXCL WATER FEATURE",14688,0.42
+561,outdoor and garden equipment,FENCES OR FENCE POSTS,105305,0.22
+562,outdoor and garden equipment,FIRE SPRINKLERS,229,0.33
+563,outdoor and garden equipment,"GARDEN HOSES, NOZZLES OR SPRINKLERS",19050,0.26
+564,outdoor and garden equipment,GARDEN TRACTORS,789,0.46
+565,outdoor and garden equipment,GREENHOUSE OR GARDENING SUPPLIES,21708,0.25
+566,outdoor and garden equipment,HAIR CLIPPERS AND TRIMMERS,2347,0.04
+567,outdoor and garden equipment,"LAWN TRIMMERS OR EDGERS, POWERED (EXC BR",14117,0.18
+568,outdoor and garden equipment,MANUAL HEDGE TRIMMERS,1260,0.09
+569,outdoor and garden equipment,MANUAL LAWN TRIMMERS OR EDGERS,101,0.0
+570,outdoor and garden equipment,POWER HEDGE TRIMMERS,8181,0.26
+571,outdoor and garden equipment,WHEELBARROWS OR LAWN CARTS,4149,0.09
+572,packaging and containers,AEROSOL CONTAINERS,2185,0.68
+573,packaging and containers,"BAGS, NOT ELSEWHERE CLASSIFIED",52908,0.21
+574,packaging and containers,BOTTLE OPENERS,8,0.0
+575,packaging and containers,"BOTTLES OR JARS, NOT SPECIFIED",37338,0.25
+576,packaging and containers,"CAN OPENERS, NOT SPECIFIED",2053,0.05
+577,packaging and containers,"CANDLES, CANDLESTICKS AND OTHER CANDLE H",6845,0.19
+578,packaging and containers,CANNING JARS OR LIDS,1778,0.16
+579,packaging and containers,CARDBOARD PRODUCTS,19160,0.11
+580,packaging and containers,CONTAINERS WITH KEY OPENERS,263,0.0
+581,packaging and containers,"CONTAINERS, NOT SPECIFIED",129087,0.15
+582,packaging and containers,ELECTRIC CAN OPENERS,7,0.0
+583,packaging and containers,GASOLINE CANS,1313,0.83
+584,packaging and containers,GLASS ALCOHOLIC BEVERAGE BOTTLES,7609,0.12
+585,packaging and containers,"GLASS BOTTLES OR JARS, NOT SPECIFIED",17698,0.07
+586,packaging and containers,GLASS SOFT DRINK BOTTLES,1076,0.16
+587,packaging and containers,LUBRICANTS,1500,0.26
+588,packaging and containers,METAL CONTAINERS,47150,0.07
+589,packaging and containers,MUSIC BOXES OR CHIMES,175,0.0
+590,packaging and containers,NONELECTRIC CAN OPENERS,133,0.0
+591,packaging and containers,NONGLASS BOTTLES OR JARS,13868,0.29
+592,packaging and containers,OTHER CONTAINERS,9157,0.15
+593,packaging and containers,OTHER GLASS BOTTLES OR JARS,4311,0.12
+594,packaging and containers,PAPER BAGS,390,0.36
+595,packaging and containers,PLASTIC BAGS,8714,0.25
+596,packaging and containers,PLASTIC CONTAINERS (RIGID OR SEMI-RIGID),10685,0.08
+597,packaging and containers,PRESSURIZED CONTAINERS (NONAEROSOL),1770,0.13
+598,packaging and containers,SLEEPING BAGS,265,0.33
+599,packaging and containers,"WASTE CONTAINERS, TRASH BASKETS OR REFUS",59739,0.29
+600,packaging and containers,WOODEN CONTAINERS,11990,0.11
+601,personal care and cosmetics,"COMBS OR HAIRBRUSHES, UNPOWERED",4216,0.12
+602,personal care and cosmetics,"COMBS, NOT SPECIFIED",561,0.36
+603,personal care and cosmetics,"COSMETICS, INCL FACIAL & EYE MAKE-UP DEO",1687,0.04
+604,personal care and cosmetics,DYES (NONCOSMETIC),51,0.0
+605,personal care and cosmetics,ELECTRIC COMBS,110,0.0
+606,personal care and cosmetics,ELECTRIC RAZORS OR SHAVERS,904,0.11
+607,personal care and cosmetics,INTERNAL COMBUSTION ENGINES (NONVEHICULA,227,0.4
+608,personal care and cosmetics,NONELECTRIC RAZORS OR SHAVERS,28314,0.12
+609,personal care and cosmetics,ORAL HYGIENE PRODUCTS,109,0.0
+610,personal care and cosmetics,"RAZORS OR SHAVERS, NOT SPECIFIED",19739,0.12
+611,sports and recreation equipment,ABOVE-GROUND SWIMMING POOLS,981,0.38
+612,sports and recreation equipment,AMUSEMENT ATTRACTIONS (INCLUDING RIDES),24815,0.1
+613,sports and recreation equipment,"ASHTRAYS, NOT ELEC/BATTERY, OR NOS",470,0.33
+614,sports and recreation equipment,"BALL SPORTS (ACTIVITY, APPAREL OR EQUIPM",6007,0.02
+615,sports and recreation equipment,"BALLS, OTHER OR NOT SPECIFIED",23445,0.09
+616,sports and recreation equipment,"BASEBALL (ACTIVITY, APPAREL OR EQUIPMENT",91831,0.05
+617,sports and recreation equipment,"BASKETBALL (ACTIVITY, APPAREL OR EQUIP.)",347201,0.05
+618,sports and recreation equipment,BATH OR FACIAL BRUSHES,517,0.24
+619,sports and recreation equipment,"BATHTUB OR SHOWER ENCLOSURES, NOT SPECIF",4497,0.4
+620,sports and recreation equipment,BATHTUBS OR SHOWERS,351418,0.43
+621,sports and recreation equipment,BATONS,159,0.0
+622,sports and recreation equipment,BATTERIES,19595,0.35
+623,sports and recreation equipment,BATTERY CHARGERS,4122,0.14
+624,sports and recreation equipment,BICYCLES AND ACCESSORIES (EXCL MOUNTAIN,398533,0.29
+625,sports and recreation equipment,"BILLIARDS OR POOL (ACTIVITY, APPAREL OR",3082,0.24
+626,sports and recreation equipment,BUILT-IN SWIMMING POOLS,16184,0.26
+627,sports and recreation equipment,"CAMPING EQUIP (EXCL TRAILERS, LIGHTING E",6336,0.18
+628,sports and recreation equipment,"CISTERNS, CESSPOOLS OR SEPTIC TANKS",84,0.67
+629,sports and recreation equipment,CLACKER BALLS,112,0.0
+630,sports and recreation equipment,"CLOCKS, ELECTRIC OR BATTERY OPERATED",157,0.0
+631,sports and recreation equipment,"CLOCKS, NOT ELEC/BATTERY, OR NOS",2369,0.38
+632,sports and recreation equipment,ELECTRIC FRYING PANS AND SKILLETS,629,0.17
+633,sports and recreation equipment,ELECTRIC OR BATTERY-POWERED KNIVES,236,0.0
+634,sports and recreation equipment,"EXERCISE (ACTIVITY OR APPAREL, W/O EQUIP",354045,0.25
+635,sports and recreation equipment,EXERCISE EQUIPMENT,75215,0.25
+636,sports and recreation equipment,"FISHING (ACTIVITY, APPAREL OR EQUIPMENT)",63979,0.12
+637,sports and recreation equipment,FLASHLIGHTS OR BATTERY-POWERED LANTERNS,1577,0.14
+638,sports and recreation equipment,"FOOTBALL (ACTIVITY, APPAREL OR EQUIP.)",304801,0.08
+639,sports and recreation equipment,GLASS BATHTUB OR SHOWER ENCLOSURES,3871,0.15
+640,sports and recreation equipment,"GYMNASTICS (ACTIVITY, APPAREL OR EQUIP.)",33217,0.13
+641,sports and recreation equipment,"HANDBALL (ACTIVITY, APPAREL OR EQUIPMENT",1595,0.05
+642,sports and recreation equipment,"MINIBIKES, POWERED",5218,0.31
+643,sports and recreation equipment,MONKEY BARS OR OTHER PLAYGROUND CLIMBING,61325,0.22
+644,sports and recreation equipment,MOUNTAIN OR ALL-TERRAIN BICYCLES AND AC,17898,0.24
+645,sports and recreation equipment,"MUSICAL INSTR, NOT ELEC/BATTERY, OR NOS",9361,0.08
+646,sports and recreation equipment,"MUSICAL INSTRUMENTS, ELECTRIC OR BATTERY",960,0.0
+647,sports and recreation equipment,NONGLASS BATHTUB OR SHOWER ENCLOSURES,260,0.67
+648,sports and recreation equipment,"OTHER BALL SPORTS (ACTIVITY, APPAREL OR",55276,0.15
+649,sports and recreation equipment,OTHER PLAYGROUND EQUIPMENT,20504,0.11
+650,sports and recreation equipment,"PLAYGROUND EQUIPMENT, NOT SPECIFIED",41814,0.12
+651,sports and recreation equipment,"SCALES, ELECTRIC OR BATTERY OPERATED. EX",528,0.73
+652,sports and recreation equipment,"SCALES, NOT ELEC/BATTERY, OR NOS",2391,0.55
+653,sports and recreation equipment,SKATEBOARDS,58225,0.13
+654,sports and recreation equipment,SLIDES OR SLIDING BOARDS,41540,0.11
+655,sports and recreation equipment,"SNOW SKIING (ACTIVITY, APPAREL OR EQUIPM",50419,0.28
+656,sports and recreation equipment,"SNOWBOARDING (ACTIVITY, APPAREL, EQUIP.)",33391,0.09
+657,sports and recreation equipment,"SOFTBALL (ACTIVITY, APPAREL OR EQUIPMENT",60621,0.06
+658,sports and recreation equipment,"SPORTS OR RECREATIONAL ACTIVITY, N.E.C.",61163,0.1
+659,sports and recreation equipment,"SQUASH, RACQUET BALL OR PADDLE BALL",2471,0.08
+660,sports and recreation equipment,"SURFING (ACTIVITY, APPAREL OR EQUIPMENT)",7164,0.17
+661,sports and recreation equipment,"SWIMMING (ACTIVITY, APPAREL OR EQUIPMENT",83905,0.1
+662,sports and recreation equipment,SWIMMING POOL CHEMICALS,2940,0.03
+663,sports and recreation equipment,SWIMMING POOL EQUIPMENT,5237,0.22
+664,sports and recreation equipment,SWIMMING POOL SLIDES,703,0.15
+665,sports and recreation equipment,"SWIMMING POOLS, NOT SPECIFIED",59108,0.26
+666,sports and recreation equipment,SWINGS OR SWING SETS,48684,0.11
+667,sports and recreation equipment,TAPES (WITH ADHESIVE SURFACES),2483,0.17
+668,sports and recreation equipment,"TETHERBALL (ACTIVITY, APPAREL OR EQUIPME",760,0.08
+669,sports and recreation equipment,TRAMPOLINES,112930,0.12
+670,sports and recreation equipment,TREE STANDS (HUNTING),4614,0.74
+671,sports and recreation equipment,"VOLLEYBALL (ACTIVITY, APPAREL OR EQUIP.)",66041,0.04
+672,sports and recreation equipment,"WATER SKIING (ACTIVITY, APPAREL OR EQUIP",2268,0.08
+673,sports and recreation equipment,"WATER SLIDES, BACKYARD/HOME (NOT SWIMMIN",5880,0.1
+674,sports and recreation equipment,"WATER SLIDES, NOT ELSEWHERE CLASSIFIED",6119,0.07
+675,sports and recreation equipment,"WATER SLIDES, PUBLIC (STATIONARY AMUSEME",5574,0.1
+676,sports and recreation equipment,"WEIGHT LIFTING (ACTIVITY, APPAREL OR EQU",125959,0.11
+677,sports and recreation equipment,"WHIRLPOOLS, HOT TUBS OR HOME SPAS",8951,0.3
+678,tools and workshop equipment,AIR COMPRESSORS (SEPARATE),2396,0.3
+679,tools and workshop equipment,AUTOMOTIVE TOOLS OR ACCESSORIES,4427,0.17
+680,tools and workshop equipment,BAND SAWS,1910,0.45
+681,tools and workshop equipment,BARSTOOLS OR KITCHEN STOOLS,16644,0.29
+682,tools and workshop equipment,CHAIN SAWS,27467,0.19
+683,tools and workshop equipment,"DRILLS, NOT SPECIFIED",11012,0.16
+684,tools and workshop equipment,EXTENSION OR STRAIGHT LADDERS,1914,0.48
+685,tools and workshop equipment,HACKSAWS,446,0.0
+686,tools and workshop equipment,HAMMERS,20502,0.08
+687,tools and workshop equipment,HAND LAWN MOWERS,1498,0.38
+688,tools and workshop equipment,HAND SAWS,2622,0.22
+689,tools and workshop equipment,HEAVY-DUTY WORKSHOP STAPLERS,1149,0.08
+690,tools and workshop equipment,JIGSAWS,558,0.67
+691,tools and workshop equipment,"LADDERS, OTHER OR NOT SPECIFIED",138218,0.53
+692,tools and workshop equipment,"LAWN MOWERS, NOT SPECIFIED",49345,0.47
+693,tools and workshop equipment,MANUAL DRILLS,109,0.0
+694,tools and workshop equipment,MANUAL FILING OR SANDING TOOLS,1279,0.08
+695,tools and workshop equipment,"MANUAL PRUNING OR TRIMMING EQUIPMENT, NO",1771,0.37
+696,tools and workshop equipment,MANUAL SNOW OR ICE REMOVAL TOOLS,27549,0.29
+697,tools and workshop equipment,"MANUAL WORKSHOP GRINDERS, BUFFERS OR POL",1716,0.18
+698,tools and workshop equipment,OTHER MANUAL PRUNING OR TRIMMING EQUIPME,669,0.0
+699,tools and workshop equipment,OTHER MANUAL WORKSHOP TOOLS,6870,0.07
+700,tools and workshop equipment,OTHER POWER GARDEN TOOLS,216,0.67
+701,tools and workshop equipment,OTHER POWER PRUNING OR TRIMMING EQUIPMEN,290,1.0
+702,tools and workshop equipment,OTHER UNPOWERED GARDEN TOOLS,25074,0.21
+703,tools and workshop equipment,"PLIERS, WIRE CUTTERS OR WRENCHES",10041,0.05
+704,tools and workshop equipment,"POWER DRILLS OR ACCESSORIES, NOT SPECIFI",6777,0.11
+705,tools and workshop equipment,"POWER LAWN MOWERS, NOT SPECIFIED",9248,0.73
+706,tools and workshop equipment,"POWER PRUNING OR TRIMMING EQUIPMENT, NOT",772,0.5
+707,tools and workshop equipment,"POWER SAWS, OTHER OR NOT SPECIFIED",13929,0.59
+708,tools and workshop equipment,"POWER WORKSHOP GRINDERS, BUFFERS OR POLI",16729,0.09
+709,tools and workshop equipment,"PRUNING OR TRIMMING EQUIPMENT, NOT SPECI",20245,0.38
+710,tools and workshop equipment,RADIAL ARM SAWS,28,0.0
+711,tools and workshop equipment,RIDING POWER LAWN MOWERS,14396,0.59
+712,tools and workshop equipment,ROTARY POWER LAWN MOWERS,1309,0.78
+713,tools and workshop equipment,SABRE SAWS,1650,0.0
+714,tools and workshop equipment,"SAWS, NOT SPECIFIED",16722,0.36
+715,tools and workshop equipment,SCREWDRIVERS,4707,0.26
+716,tools and workshop equipment,SEE-SAWS OR TEETER BOARDS,2787,0.06
+717,tools and workshop equipment,STATIONARY POWER DRILLS AND ACCESSORIES,362,0.0
+718,tools and workshop equipment,STEP STOOLS,13904,0.25
+719,tools and workshop equipment,STEPLADDERS,10808,0.46
+720,tools and workshop equipment,"STOOLS, OTHER OR NOT SPECIFIED",29402,0.29
+721,tools and workshop equipment,TOOL SHEDS,6822,0.38
+722,tools and workshop equipment,TOOLBOXES OR TOOL KITS,5121,0.16
+723,tools and workshop equipment,"TOOLS, NOT SPECIFIED",38915,0.26
+724,tools and workshop equipment,VISES OR WORKSHOP CLAMPS,746,0.0
+725,tools and workshop equipment,WORKSHOP COMPOUNDS OR CHEMICALS,490,0.43
+726,tools and workshop equipment,WORKSHOP FURNISHINGS,900,0.21
+727,tools and workshop equipment,"WORKSHOP GRINDERS, BUFFERS OR POLISHERS,",17877,0.06
+728,toys and children's products,BALLOONS (TOY),4349,0.07
+729,toys and children's products,"BLOCKS, STACKING TOYS OR PULL TOYS",2026,0.14
+730,toys and children's products,BUILDING SETS,9539,0.16
+731,toys and children's products,COMPUTERS (EQUIPMENT & ELECTRONIC GAMES),33342,0.12
+732,toys and children's products,DOLL HOUSES AND OTHER PLAY SCENES,992,0.11
+733,toys and children's products,"DOLLS, PLUSH TOYS, AND ACTION FIGURES",4614,0.05
+734,toys and children's products,FLOTATION TOYS (EXCL. OFFICIAL LIFE SAVI,1743,0.17
+735,toys and children's products,GAMES OR GAME PARTS (EXCL MARBLES & COMP,8994,0.25
+736,toys and children's products,MARBLES,2978,0.15
+737,toys and children's products,"NONWHEELED RIDING TOYS, UNPOWERED",1044,0.0
+738,toys and children's products,OTHER TOY GUNS,955,0.23
+739,toys and children's products,OTHER TOY WEAPONS (NONPROJECTILE),1293,0.05
+740,toys and children's products,OTHER TOY WEAPONS (PROJECTILE),130,0.0
+741,toys and children's products,POWERED RIDING TOYS,1840,0.05
+742,toys and children's products,"PRETEND ELECTRONICS,TOOLS,HSEWRS&APPLIAN",3511,0.1
+743,toys and children's products,"RIDING TOYS, NOT SPECIFIED",2066,0.1
+744,toys and children's products,SLINGSHOTS OR SLING-PROPELLED TOYS,92,0.5
+745,toys and children's products,SQUEEZE OR SQUEAKER TOYS,297,0.0
+746,toys and children's products,TOY BOWS OR ARROWS,454,0.0
+747,toys and children's products,"TOY CAPS, CAP TOYS OR CAP GUNS",127,0.0
+748,toys and children's products,TOY GUNS WITH PROJECTILES,4557,0.04
+749,toys and children's products,"TOY GUNS, NOT SPECIFIED",1512,0.0
+750,toys and children's products,TOY MAKE-UP KITS OR COSMETICS,123,0.0
+751,toys and children's products,TOY MUSICAL INSTRUMENTS,614,0.0
+752,toys and children's products,TOY SPORTS EQUIPMENT,1039,0.05
+753,toys and children's products,TOY VEHICLES (EXCLUDING RIDING TOYS),10580,0.07
+754,toys and children's products,"TOYS, NOT ELSEWHERE CLASSIFIED",13059,0.05
+755,toys and children's products,"TOYS, NOT SPECIFIED",47945,0.08
+756,toys and children's products,TREEHOUSES OR PLAYHOUSES,1672,0.16
+757,toys and children's products,WATER TOYS,700,0.17
+758,toys and children's products,"WHEELED RIDING TOYS, UNPOWERED",1566,0.1

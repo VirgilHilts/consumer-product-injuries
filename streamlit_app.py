@@ -37,8 +37,13 @@ fig_all = px.treemap(
 )
 
 fig_all.update_traces(
-    hovertemplate="<b>%{label}</b><br>National Estimate: %{value:,.0f}<br>Avg Severity: %{color:.2f}"
+    hovertemplate="<b>%{label}</b><br>" +
+                  "National Estimate: %{value:,.0f}<br>" +
+                  "Avg Severity: %{color:.2f}<br><br>" +
+                  "<b>Top 3 Narratives:</b><br>" +
+                  "%{customdata[0]}"
 )
+
 fig_all.update_layout(height=750)
 
 st.plotly_chart(fig_all, use_container_width=True)

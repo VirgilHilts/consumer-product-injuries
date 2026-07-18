@@ -60,6 +60,9 @@ agg_serious = load_agg_serious()
 agg_serious['national_estimate'] = agg_serious['national_estimate'].round(0).astype(int)
 agg_serious['avg_Severity'] = agg_serious['avg_Severity'].round(2)
 
+# Merge with agg
+agg_serious = agg_serious.merge(top_narr, on=['broad_category', 'Prod'], how='left')
+
 fig_serious = px.treemap(
     agg_serious,
     path=['broad_category', 'Prod'],
@@ -67,12 +70,18 @@ fig_serious = px.treemap(
     color='avg_Severity',
     color_continuous_scale=['#ffbb78', '#ff7f0e', '#d62728'],
     range_color=(4.0, 8.0),
-    title="Amputations & Fatalities Only (National Estimates)"
+    title="Amputations & Fatalities Only (National Estimates)",
+    custom_data=['top_3_narratives']
 )
 
 fig_serious.update_traces(
-    hovertemplate="<b>%{label}</b><br>National Estimate: %{value:,.0f}<br>Avg Severity: %{color:.2f}"
+    hovertemplate="<b>%{label}</b><br>" +
+                  "National Estimate: %{value:,.0f}<br>" +
+                  "Avg Severity: %{color:.2f}<br><br>" +
+                  "<b>Top 3 Narratives:</b><br>" +
+                  "%{customdata[0]}"
 )
+
 fig_serious.update_layout(height=750)
 
 st.plotly_chart(fig_serious, use_container_width=True)

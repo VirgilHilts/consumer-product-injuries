@@ -272,7 +272,14 @@ agg_serious['avg_Severity'] = agg_serious['avg_Severity'].round(2)
 
 agg_serious.to_csv('agg_serious.csv')
 
+# Create a small file with top 3 narratives per group
+top_narratives = (
+    df.groupby(['broad_category', 'Prod'])
+    .apply(lambda x: x.nlargest(3, 'funny_score')['Narrative_1'].tolist())
+    .reset_index(name='top_3_narratives')
+)
 
+top_narratives.to_csv('top_3_narratives.csv', index=False)
 
 
 

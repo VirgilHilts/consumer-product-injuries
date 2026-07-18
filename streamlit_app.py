@@ -17,6 +17,12 @@ agg = load_agg_all()
 agg['national_estimate'] = agg['national_estimate'].round(0).astype(int)
 agg['avg_Severity'] = agg['avg_Severity'].round(2)
 
+# In streamlit_app.py
+top_narr = pd.read_csv('top_3_narratives.csv')   
+
+# Merge with agg
+agg = agg.merge(top_narr, on=['broad_category', 'Prod'], how='left')
+
 # ==================== ALL INJURIES ====================
 st.subheader("All Injuries")
 fig_all = px.treemap(
@@ -26,7 +32,8 @@ fig_all = px.treemap(
     color='avg_Severity',
     color_continuous_scale=['#2ca02c', '#98df8a', '#ffbb78', '#ff7f0e', '#d62728'],
     range_color=(0, 1.0),
-    title="All Injuries (National Estimates)"
+    title="All Injuries (National Estimates)",
+    custom_data=['top_3_narratives']
 )
 
 fig_all.update_traces(

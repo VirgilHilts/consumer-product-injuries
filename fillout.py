@@ -241,7 +241,7 @@ df = compute_funny_score(df)
 pd.set_option('display.max_colwidth', None)   # Show full text
 print(df.nlargest(10, 'funny_score')[['Narrative_1', 'funny_score']])
 
-df.to_csv('Full Labeled Set,csv')
+df.to_csv('Full Labeled Set.csv')
 
 # now filter on Severity
 filtered = df[df['Severity'] > 1]

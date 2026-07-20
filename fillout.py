@@ -275,11 +275,11 @@ agg_serious.to_csv('agg_serious.csv')
 top_narratives = (
     df.groupby(['broad_category', 'Prod'])
     .apply(lambda x: 
-        "\n\n".join(
-            f"{i+1}. {text}" 
+        "<br><br>".join(
+            f"{i+1}. {text[:180]}{'...' if len(text) > 180 else ''}" 
             for i, text in enumerate(
                 x.nlargest(3, 'funny_score')['Narrative_1']
-                .str.wrap(40)
+                .str.wrap(70)           # wrap at ~70 chars per line
                 .tolist()
             )
         )
@@ -287,8 +287,31 @@ top_narratives = (
     .reset_index(name='top_3_narratives')
 )
 
-
 top_narratives.to_csv('top_3_narratives.csv', index=False)
+
+# add links to Hugging Face
+base_url = "https://huggingface.co/datasets/bpurvy/consumer-product-injuries/resolve/main/Full%20Labeled%20Set.csv"
+
+# Assuming you have CPSC_Case_Number as a unique ID
+df['hf_link'] = base_url + "#L" + (df.index + 2).astype(str)   # +2 because CSV has header
+
+# Save the small top-3 file with links
+top_narratives = (
+    df.groupby(['broad_category', 'Prod'])
+    .apply(lambda x: 
+        "<br><br>".join(
+            f"{i+1}. <a href='{row['hf_link']}' target='_blank'>{row['Narrative_1'][:180]}{'...' if len(row['Narrative_1']) > 180 else ''}</a>"
+            for i, row in x.nlargest(3, 'funny_score').iterrows()
+        )
+    )
+    .reset_index(name='top_3_narratives')
+)
+
+
+# find the bagel injuries
+bagels = df[df['Narrative_1'].str.contains('bagel', case=False)]
+bagels.to_csv('bagel_injuries.csv')
+
 
 
 

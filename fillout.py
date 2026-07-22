@@ -243,11 +243,6 @@ print(df.nlargest(10, 'funny_score')[['Narrative_1', 'funny_score']])
 
 df.to_csv('Full Labeled Set.csv')
 
-# now filter on Severity
-filtered = df[df['Severity'] > 1]
-filtered.to_csv('bad_cases.csv')
-
-
 agg_all = df.groupby(['broad_category', 'Prod']).agg(
     national_estimate=('Weight', 'sum'),
     avg_Severity=('Severity', 'mean')
@@ -272,40 +267,23 @@ agg_serious['avg_Severity'] = agg_serious['avg_Severity'].round(2)
 
 agg_serious.to_csv('agg_serious.csv')
 
+
+viewer_base = "https://huggingface.co/datasets/bpurvy/consumer-product-injuries/viewer?row="
+
 top_narratives = (
     df.groupby(['broad_category', 'Prod'])
     .apply(lambda x: 
         "<br><br>".join(
-            f"{i+1}. {text[:180]}{'...' if len(text) > 180 else ''}" 
-            for i, text in enumerate(
-                x.nlargest(3, 'funny_score')['Narrative_1']
-                .str.wrap(70)           # wrap at ~70 chars per line
-                .tolist()
+            f"{i+1}. <a href='{viewer_base}{idx}' target='_blank'>{row['Narrative_1'][:200]}{'...' if len(row['Narrative_1']) > 200 else ''}</a>"
+            for i, (idx, row) in enumerate(
+                x.nlargest(3, 'funny_score').iterrows()
             )
         )
     )
     .reset_index(name='top_3_narratives')
 )
 
-top_narratives.to_csv('top_3_narratives.csv', index=False)
-
-# add links to Hugging Face
-base_url = "https://huggingface.co/datasets/bpurvy/consumer-product-injuries/resolve/main/Full%20Labeled%20Set.csv"
-
-# Assuming you have CPSC_Case_Number as a unique ID
-df['hf_link'] = base_url + "#L" + (df.index + 2).astype(str)   # +2 because CSV has header
-
-# Save the small top-3 file with links
-top_narratives = (
-    df.groupby(['broad_category', 'Prod'])
-    .apply(lambda x: 
-        "<br><br>".join(
-            f"{i+1}. <a href='{row['hf_link']}' target='_blank'>{row['Narrative_1'][:180]}{'...' if len(row['Narrative_1']) > 180 else ''}</a>"
-            for i, row in x.nlargest(3, 'funny_score').iterrows()
-        )
-    )
-    .reset_index(name='top_3_narratives')
-)
+top_narratives.to_csv('top_3_narratives.csv')
 
 
 # find the bagel injuries

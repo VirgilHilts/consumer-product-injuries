@@ -48,10 +48,9 @@ fig.update_traces(
         "National Estimate: %{value:,.0f}<br>" +
         "Avg Severity: %{color:.2f}<br><br>" +
         "<b>Top 3 Narratives:</b><br>" +
-        "%{customdata}"
+        "%{customdata[0]}"
     )
 )
-
 
 fig.update_layout(height=750)
 
@@ -80,7 +79,7 @@ fig.update_traces(
         "National Estimate: %{value:,.0f}<br>" +
         "Avg Severity: %{color:.2f}<br><br>" +
         "<b>Top 3 Narratives:</b><br>" +
-        "%{customdata}"
+        "%{customdata[0]}"
     )
 )
 
